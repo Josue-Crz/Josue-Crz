@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 😄
+
 Just testing github out!
 <!--
 **Josue-Crz/Josue-Crz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Just a student learning how to use Github</h1>
