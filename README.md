@@ -1,6 +1,6 @@
 ## Hi there 😄
 
-Just testing github out!
+Just testing github out! Not much on my profile, but please feel free to look around.
 <!--
 **Josue-Crz/Josue-Crz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Just a student learning how to use Github</h1>
+<h1>About Me</h1>
+I live in San Francisco, love dogs, currently enrolled in City College of San Francisco, I am planning to transfer in spring 2026 & learning Java fundamentals. 
