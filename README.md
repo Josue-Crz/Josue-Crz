@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 <h1>About Me ‍🎓</h1>
-I live in San Francisco, love dogs, currently enrolled in City College of San Francisco, I am planning to transfer in spring 2026 & learning Java fundamentals. 
-<br>
+I live in San Francisco, love dogs, love anime & manga, currently enrolled in City College of San Francisco, planning to transfer in spring 2026 & specialized in Java. 
+
+![Myself](https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
+
+
 <h1>Languages & Tools 💻</h1>
 
 <h3>Languages:</h3>
@@ -40,3 +44,11 @@ I live in San Francisco, love dogs, currently enrolled in City College of San Fr
 
 - Data Structures & Algorithms
 - Web APIs
+
+<h1>Side Projects</h1>
+<h2>Holder 1</h2>
+test
+<h2>Holder 2</h2>
+test
+<h2>Holder 3</h2>
+test
