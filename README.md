@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 <h1>About Me ‍🎓</h1>
 I live in San Francisco, love dogs, love anime & manga, currently enrolled in City College of San Francisco, planning to transfer in spring 2026 & specialized in Java. 
+<br>
+<br>
 
 ![Myself](https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
 
