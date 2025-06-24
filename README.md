@@ -17,3 +17,26 @@ Here are some ideas to get you started:
 -->
 <h1>About Me ‍🎓</h1>
 I live in San Francisco, love dogs, currently enrolled in City College of San Francisco, I am planning to transfer in spring 2026 & learning Java fundamentals. 
+<br>
+<h1>Languages & Tools 💻</h1>
+
+<h3>Languages:</h3>
+
+
+- Python 🐍
+- Java ☕
+- Javascript ❗
+
+<h3>Tools:</h3>
+
+
+- Linux CLI  🐧
+- Git/Github
+- IntelliJ
+- Pycharm
+
+<h3>Learning:</h3>
+
+
+- Data Structures & Algorithms
+- Web APIs
