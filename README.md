@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
 <h1>About Me ‍🎓</h1>
 I live in San Francisco, love dogs, love anime & manga, currently enrolled in City College of San Francisco, planning to transfer in spring 2026 & specialized in Java. 
 
