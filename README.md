@@ -21,6 +21,8 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 ![Myself](https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
 
 <hr>
+<h1>Contact</h1>
+- Email: josuecruz3830@gmail.com
 <h1>Languages & Tools 💻</h1>
 
 <h3>Languages:</h3>
