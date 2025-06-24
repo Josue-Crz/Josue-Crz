@@ -21,7 +21,7 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 ![Myself](https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
 
-
+<hr>
 <h1>Languages & Tools 💻</h1>
 
 <h3>Languages:</h3>
@@ -44,7 +44,7 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 - Data Structures & Algorithms
 - Web APIs
-
+<hr>
 <h1>Side Projects</h1>
 <h2>Holder 1</h2>
 test
