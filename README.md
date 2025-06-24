@@ -22,9 +22,23 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 <hr>
 <h1>Contact</h1>
-- Email: josuecruz3830@gmail.com
-<h1>Languages & Tools 💻</h1>
 
+- <b><h3>Email: josuecruz3830@gmail.com</h3></b>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<h1>Languages & Tools 💻</h1>
 <h3>Languages:</h3>
 
 
