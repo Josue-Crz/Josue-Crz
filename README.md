@@ -27,7 +27,7 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 - <b><h3>Email: josuecruz3830@gmail.com</h3></b>
 
-
+- <b><h3>Portfolio Hub: [Link](https://josuecruz3830.wixsite.com/jcportfoliohub)</h3></b>
 
 
 
