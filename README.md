@@ -1,6 +1,6 @@
 <h1>Hello there! 🌱</h1>
 
-Happy to be coding and creating, making an impact on the world!
+Happy to be coding and creating, making an impact on the world! Find <b>my personal side projects</b> below. (WIP)
 <!--
 **Josue-Crz/Josue-Crz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,8 +66,10 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 <h3>Learning:</h3>
 
 - C Programming
+- Git/Github Workflow Collaboration
+- Low Level Software Systems
 <br>
-- Git/Github Workflow
+
 <hr>
 <h1>Side Projects</h1>
 <h2>Holder 1</h2>
