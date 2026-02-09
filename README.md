@@ -29,7 +29,7 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 
 [Email Me: josuecruz3830@gmail.com](mailto:josuecruz3830@gmail.com)
 
-<b><h3>LinkedIn: https://www.linkedin.com/in/josue-cruz-610898238/</h3></b>
+<b><h3>LinkedIn: www.linkedin.com/in/josue-cruz-610898238</h3></b>
 <b><h3>Portfolio Hub(WIP): https://josuecruz3830.wixsite.com/jcportfoliohub</h3></b>
 
 
