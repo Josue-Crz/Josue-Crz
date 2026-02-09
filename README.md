@@ -24,7 +24,7 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 
 <hr>
 <h1>Contact</h1>
-<b><h3>Feel free to email me about collaboration or if you'd like to connect!</h3></b>
+<b><h3>Feel free to message my professional email about collaboration or if you'd like to connect!</h3></b>
 
 
 [Email Me: josuecruz3830@gmail.com](mailto:josuecruz3830@gmail.com)
@@ -61,7 +61,7 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 <br>
 - Git/Github
 <br>
-- Visual Studio Code, CLion, IntelliJ, Pycharm
+- IDEs: Visual Studio Code, CLion, IntelliJ, Pycharm
 
 <h3>Learning:</h3>
 
