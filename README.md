@@ -1,6 +1,6 @@
 <h1>Hello there! 🌱</h1>
 
-Just testing github out! Not much on my profile, but please feel free to look around.
+Happy to be coding and creating, making an impact on the world!
 <!--
 **Josue-Crz/Josue-Crz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>About Me ‍🎓</h1>
-I live in San Francisco, love dogs, love anime & manga, currently enrolled in City College of San Francisco, planning to transfer in spring 2026 & specialized in Java. 
+I live in San Francisco, love dogs, fascinated by anime & manga, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
 <br>
 <br>
 
@@ -24,10 +24,13 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 <hr>
 <h1>Contact</h1>
+<b><h3>Feel free to email me about collaboration or if you'd like to connect!</h3></b>
 
-- <b><h3>Email: josuecruz3830@gmail.com</h3></b>
 
-- <b><h3>Portfolio Hub: [Link](https://josuecruz3830.wixsite.com/jcportfoliohub)</h3></b>
+[Email Me: josuecruz3830@gmail.com](mailto:josuecruz3830@gmail.com)
+
+<b><h3>LinkedIn: https://www.linkedin.com/in/josue-cruz-610898238/</h3></b>
+<b><h3>Portfolio Hub(WIP): https://josuecruz3830.wixsite.com/jcportfoliohub</h3></b>
 
 
 
@@ -41,26 +44,30 @@ I live in San Francisco, love dogs, love anime & manga, currently enrolled in Ci
 
 
 <h1>Languages & Tools 💻</h1>
-<h3>Languages:</h3>
-
-
-- Python 🐍
-- Java ☕
-- Javascript ❗
+<h3>Programming Languages:</h3>
+- C
+<br>
+- Assembly (MIPS Risc Architecture)
+<br>
+- Python (Django & Flask Full stack libraries)
+<br>
+- Javascript/Typescript
+<br>
+- Object Oriented Programming (Java)
+<br>
 
 <h3>Tools:</h3>
-
-
-- Linux CLI  🐧
+- Linux CLI 
+<br>
 - Git/Github
-- IntelliJ
-- Pycharm
+<br>
+- Visual Studio Code, CLion, IntelliJ, Pycharm
 
 <h3>Learning:</h3>
 
-
-- Data Structures & Algorithms
-- Web APIs
+- C Programming
+<br>
+- Git/Github Workflow
 <hr>
 <h1>Side Projects</h1>
 <h2>Holder 1</h2>
