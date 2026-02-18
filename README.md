@@ -45,22 +45,17 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 
 <h1>Languages & Tools 💻</h1>
 <h3>Programming Languages:</h3>
+
 - C
-<br>
-- Assembly (MIPS Risc Architecture)
-<br>
+- Assembly (MIPS RISC Architecture)
 - Python (Django & Flask Full stack libraries)
-<br>
 - Javascript/Typescript
-<br>
 - Object Oriented Programming (Java)
-<br>
 
 <h3>Tools:</h3>
+
 - Linux CLI 
-<br>
 - Git/Github
-<br>
 - IDEs: Visual Studio Code, CLion, IntelliJ, Pycharm
 
 <h3>Learning:</h3>
