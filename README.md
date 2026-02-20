@@ -68,8 +68,7 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 <hr>
 <h1>Side Projects</h1>
 <h2>Greensense</h2>
-test
+SFHacks 2026 Initial project(WIP)
 <h2>IoT Thermal Control Refactoring</h2>
-test
-<h2>Holder 3</h2>
-test
+Currently in the prototyping phase, but detail for progress and project architecture ongoing. 
+
