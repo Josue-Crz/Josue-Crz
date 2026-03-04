@@ -54,8 +54,7 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 <hr>
 <h1>Side Projects</h1>
 <h2>Greensense</h2>
-SFHacks 2026 Initial project(WIP)
+During the SFHacks 2026 Hackathon me and my team built a full stack IoT device using an Arduino to solve issues in order to promote saving the environment through temperature and humidity monitoring, with the main theme being promoting an eco friendly world. Primarily geared at HVAC monitoring, gathering real time updates to save energy, alongside providing AI suggestions of surrounding and room based DHT11 monitoring.
 
 <h2>IoT Thermal Control Refactoring</h2>
 Currently in the prototyping phase, but detail for progress and project architecture ongoing. 
-
