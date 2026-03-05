@@ -11,7 +11,7 @@ I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, 
 <img src="./static/sfview.jpeg" alt="sfview.jpeg" height=250px>
 <br>
 
-With plans to graduate with a major in Computer Science and minor in Computer Engineering. With aspirations to eventually go for my masters. 
+Current plans are to graduate with a major in Computer Science and minor in Computer Engineering. With aspirations to eventually go for my masters. 
 
 <hr>
 <h1>Contact</h1>
