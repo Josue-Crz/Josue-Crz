@@ -43,7 +43,7 @@ I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, 
 <hr>
 <h1>Side Projects</h1>
 <h2>Greensense</h2>
-During the SFHacks 2026 Hackathon me and my team built a full stack IoT device using an Arduino to solve issues in order to promote saving the environment through temperature and humidity monitoring, with the main theme being promoting an eco friendly world. Primarily geared at HVAC monitoring, gathering real time updates to save energy, alongside providing AI suggestions of surrounding and room based DHT11 monitoring.
+During the SFHacks 2026 Hackathon in under 3 days me and my team built a full stack IoT device using an Arduino to solve issues in order to promote saving the environment through temperature and humidity monitoring, with the main theme being promoting an eco friendly world. Primarily geared at HVAC monitoring, gathering real time updates to save energy, alongside providing AI suggestions of surrounding and room based DHT11 monitoring.
 
 <h2>IoT Thermal Control Refactoring</h2>
 Prototyping a full stack IoT device using Arduino libraries in order to implement a fan regulation system using real-time temperature monitoring dashboard for the user. As of the project phase, quick testing from client has been implemented through "on/off" commands via user. As well, temperature monitoring to signal the fan to turn "on/off". 
