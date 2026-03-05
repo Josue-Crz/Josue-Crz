@@ -1,6 +1,6 @@
 <h1>Hello there! 🌱</h1>
 
-Happy to be coding and creating, making an impact on the world! Find <b>my personal side projects</b> below. (WIP)
+Happy to be coding and creating, making an impact on the world! Find <b>my personal side projects</b> below. Descriptions are still a work in progress but I am open to constructive criticism.
 
 <h1>About Me ‍🎓</h1>
 I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, fascinated by anime & manga, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
