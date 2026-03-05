@@ -3,7 +3,7 @@
 Happy to be coding and creating, making an impact on the world! Find <b>my personal side projects</b> below. (WIP)
 
 <h1>About Me ‍🎓</h1>
-I live in San Francisco, love dogs, fascinated by anime & manga, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
+I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, fascinated by anime & manga, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
 <br>
 <br>
 
@@ -17,16 +17,6 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 
 <b><h3>LinkedIn: www.linkedin.com/in/josue-cruz-610898238</h3></b>
 <!--<b><h3>Portfolio Hub(WIP): https://josuecruz3830.wixsite.com/jcportfoliohub</h3></b> -->
-
-
-
-
-
-
-<br>
-
-
-
 
 
 <h1>Languages & Tools 💻</h1>
@@ -49,7 +39,6 @@ I live in San Francisco, love dogs, fascinated by anime & manga, currently enrol
 - C Programming
 - Git/Github Workflow Collaboration
 - Low Level Software Systems
-<br>
 
 <hr>
 <h1>Side Projects</h1>
