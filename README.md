@@ -6,7 +6,12 @@ Happy to be coding and creating, making an impact on the world! Find <b>my perso
 I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, fascinated by anime & manga, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
 <br>
 
-![Myself](https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg)
+
+<br>
+<img src="./static/sfview.jpeg" alt="sfview.jpeg" height=250px>
+<br>
+
+With plans to graduate with a major in Computer Science and minor in Computer Engineering. With aspirations to eventually go for my masters. 
 
 <hr>
 <h1>Contact</h1>
@@ -14,7 +19,8 @@ I live in San Francisco, love dogs, go hiking but I'd love to go rock climbing, 
 
 <h3><a href="mailto: josuecruz3830@gmail.com">josuecruz3830@gmail.com</a></h3>
 
-<b><h3>LinkedIn: www.linkedin.com/in/josue-cruz-610898238</h3></b>
+<!-- <b><h3>LinkedIn: www.linkedin.com/in/josue-cruz-610898238</h3></b> -->
+
 <!--<b><h3>Portfolio Hub(WIP): https://josuecruz3830.wixsite.com/jcportfoliohub</h3></b> -->
 
 
