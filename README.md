@@ -50,7 +50,4 @@ Current plans are to graduate with a major in Computer Science and minor in Comp
 <h2>Greensense</h2>
 During the SFHacks 2026 Hackathon in under 3 days me and my team built a full stack IoT device using an Arduino to solve issues in order to promote saving the environment through temperature and humidity monitoring, with the main theme being promoting an eco friendly world. Primarily geared at HVAC monitoring, gathering real time updates to save energy, alongside providing AI suggestions of surrounding and room based DHT11 monitoring.
 
-<h2>IoT Thermal Control Refactoring</h2>
-Prototyping a full stack IoT device using Arduino libraries in order to implement a fan regulation system using real-time temperature monitoring dashboard for the user. As of the project phase, quick testing from client has been implemented through "on/off" commands via user. As well, temperature monitoring to signal the fan to turn "on/off". 
-
-The project's major future plans are an exploration toward refactoring toward Raw AVR C in order to optimize systems alongside conversion to the STM32F401RE Nucleo-64 board for: a reduction in expense for the project alongside learning bare metal C implementation of the project.
+<h2>Dogs2Home(WIP)</h2>
