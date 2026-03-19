@@ -15,7 +15,7 @@ Current plans are to graduate with a major in Computer Science and minor in Comp
 
 <hr>
 <h1>Contact</h1>
-<b><h3>Feel free to message my professional email about collaboration or if you'd like to connect!:</h3></b>
+<b><h3>Feel free to message my professional email about collaboration or if you'd like to connect!</h3></b>
 
 <h3><a href="mailto: josuecruz3830@gmail.com">josuecruz3830@gmail.com</a></h3>
 
