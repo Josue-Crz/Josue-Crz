@@ -1,53 +1,95 @@
-<h1>Hello there! 🌱</h1>
+# Hi, I'm Josue Cruz
 
-Happy to be coding and creating, making an impact on the world! Find <b>my personal side projects</b> below. Descriptions are still a work in progress, I'm always open to constructive criticism.
+Technical product builder connecting users, systems, and teams.
 
-<h1>About Me ‍🎓</h1>
-I live in San Francisco, love dogs, currently enrolled at San Francisco State University and plan to graduate in the 2028 academic year. I love learning more about lower level systems as well as embedded software engineering and the Internet of Things field.
-<br>
+I'm a Computer Science student at San Francisco State University, Outreach Chair for SF Hacks, and open-source contributor focused on technical program management, software engineering, security-minded development, IoT products, and developer communities.
 
+I'm currently seeking Technical Product Management internships and product-adjacent engineering roles where I can help turn ambiguous technical work into clear milestones, usable systems, and strong team communication.
 
-<br>
-<img src="./static/sfview.jpeg" alt="sfview.jpeg" height=250px>
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-cruzbuilt.codes-C24E87?style=flat&logo=googlechrome&logoColor=white)](https://cruzbuilt.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josue%20Cruz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-cruz-610898238/)
+[![GitHub](https://img.shields.io/badge/GitHub-Josue--Crz-181717?style=flat&logo=github&logoColor=white)](https://github.com/Josue-Crz)
+[![Email](https://img.shields.io/badge/Email-Preferred%20Contact-3477A2?style=flat&logo=gmail&logoColor=white)](mailto:josuecruz3830@gmail.com)
 
+## What I Work On
 
-<hr>
-<h1>Contact</h1>
-<b><h3>Feel free to message my professional email about collaboration or if you'd like to connect!</h3></b>
+- Product and technical program coordination for student teams, hackathons, and open-source work.
+- Security-focused development, including input validation, XSS risk reduction, and safer data handling.
+- Full-stack and IoT prototypes that connect sensors, APIs, real-time data, and user-facing dashboards.
+- Technical documentation, maintainer communication, project planning, and contributor workflows.
 
-<h3><a href="mailto: josuecruz3830@gmail.com">josuecruz3830@gmail.com</a></h3>
+## Selected Projects
 
-<!-- <b><h3>LinkedIn: www.linkedin.com/in/josue-cruz-610898238</h3></b> -->
+### GreenSense
 
-<!--<b><h3>Portfolio Hub(WIP): https://josuecruz3830.wixsite.com/jcportfoliohub</h3></b> -->
+Full-stack IoT climate monitoring product built during SF Hacks 2026 in under three days. GreenSense uses Arduino sensor data, real-time telemetry, and AI-assisted room suggestions to support energy-aware HVAC decisions.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 
-<h1>Languages & Tools 💻</h1>
-<h3>Programming Languages:</h3>
+### Dogs2Home
 
-- C
-- Assembly (MIPS RISC Architecture)
-- Python (Django & Flask Full stack libraries)
-- Javascript/Typescript
-- Object Oriented Programming (Java)
+Proof-of-concept home monitoring app inspired by Ring-style alerts. Built in under a day to detect property damage events through Google Cloud Vision and synchronize alerts through Firebase.
 
-<h3>Tools:</h3>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=111111)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-- Linux CLI 
-- Git/Github
-- IDEs: Visual Studio Code, CLion, IntelliJ, Pycharm
+### Keyshade.io Input Field Sanitation
 
-<h3>Learning:</h3>
+Open-source security contribution through CodeDay micro-internship work. Helped strengthen frontend and schema-level input validation in a professional Nest.js and Next.js TypeScript codebase.
 
-- C Programming
-- Git/Github Workflow Collaboration
-- Low Level Software Systems
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<hr>
-<h1>Current Projects</h1>
-<h2>Greensense</h2>
-During the SFHacks 2026 Hackathon in under 3 days me and my team built a full stack IoT device using an Arduino to solve issues in order to promote saving the environment through temperature and humidity monitoring, with the main theme being promoting an eco friendly world. Primarily geared at HVAC monitoring, gathering real time updates to save energy, alongside providing AI suggestions of surrounding and room based DHT11 monitoring.
+## Languages And Tools
 
-<h2>Dogs2Home</h2>
-Constructed in under a day, Dog2Me is a full stack Internet of Things web page application heavily inspired by the Ring home monitoring system. Specialized in detecting your dog destroying furniture through Google’s Computer Cloud Vision, the application provides real time alerts alongside a real time database to the webpage about destroyed property caused by your home pet.
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111111)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Frontend And Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6E56B9?style=flat&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=111111)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
+
+### Systems, Cloud, And Collaboration
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-C24E87?style=flat&logo=googledocs&logoColor=white)
+![Project Coordination](https://img.shields.io/badge/Project_Coordination-6E56B9?style=flat&logo=notion&logoColor=white)
+
+## Open-Source Notes
+
+- John the Ripper: drafted work for [`openwall/john#5967`](https://github.com/openwall/john/pull/5967), connected to issue [`openwall/john#3896`](https://github.com/openwall/john/issues/3896), focused on consistent handling of long C/header source lines.
+- Keyshade.io: contributed to input field sanitation work in [`keyshade-xyz/keyshade#1278`](https://github.com/keyshade-xyz/keyshade/pull/1278), related to unicode and validation concerns in [`keyshade-xyz/keyshade#929`](https://github.com/keyshade-xyz/keyshade/issues/929).
+
+## Currently
+
+- Studying Computer Science at SFSU, expected May 2028.
+- Serving as Outreach Chair for SF Hacks at SFSU.
+- Building experience in technical program management, open-source collaboration, security-focused development, and IoT/full-stack product work.
+
+Email is the best way to reach me: [josuecruz3830@gmail.com](mailto:josuecruz3830@gmail.com).
