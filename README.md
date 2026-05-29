@@ -90,6 +90,6 @@ Open-source security contribution through CodeDay micro-internship work. Helped 
 
 - Studying Computer Science at SFSU, expected May 2028.
 - Serving as Outreach Chair for SF Hacks at SFSU.
-- Building experience in technical program management, open-source collaboration, security-focused development, and IoT/full-stack product work.
+- Building experience in technical product management, open-source collaboration, security-focused development, and IoT/full-stack product work.
 
 Email is the best way to reach me: [josuecruz3830@gmail.com](mailto:josuecruz3830@gmail.com).
